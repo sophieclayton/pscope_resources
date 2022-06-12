@@ -24,6 +24,7 @@ This is a run down of the gear you might want to pack when taking the planktosco
 - Disposable pipettes
 - Syringes
 - Scissors
+- Luer connectors
 
 
 
